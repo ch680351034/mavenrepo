@@ -31,11 +31,11 @@
             <name>Releases</name>
             <url>http://13.127.3.58:8081/nexus/content/repositories/releases/</url>
         </repository>
-        <snapshotRepository>
+        <repository>
             <id>snapshots</id>
             <name>Snapshots</name>
             <url>http://13.127.3.58:8081/nexus/content/repositories/snapshots/</url>
-        </snapshotRepository>
+        </repository>
     </distributionManagement>
   <dependencies>
   	<dependency>
